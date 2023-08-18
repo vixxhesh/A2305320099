@@ -1,7 +1,7 @@
 # A2305320099
 full stack
 
-## The postman screenshots
+## Postman screenshots
 
 ### http://20.244.56.144/train/register (POST)
 
